@@ -8,23 +8,23 @@
 <atom:link href="https://evwbr.github.io/justica/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/justica/</link>
 <description>Justiça reescrita com IA - Evo Web News</description>
-<lastBuildDate>Wed, 21 Jan 2026 00:22:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 11:22:15 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[STF marca depoimentos sobre fraudes no Banco Master]]></title>
-<link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/toffoli-marca-depoimentos-do-caso-master-para-dias-26-e-27-de-janeiro</link>
+<title><![CDATA[Recomendações para evitar uso indevido de IA no X]]></title>
+<link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/governo-e-mp-recomendam-que-x-impeca-conteudos-sexualizados-pelo-grok</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 21 Jan 2026 00:14:00 GMT</pubDate>
+<pubDate>Wed, 21 Jan 2026 11:02:00 GMT</pubDate>
 <category><![CDATA[Justiça]]></category>
-<guid isPermaLink="false"><![CDATA[1675552 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O ministro Dias Toffoli agendou para 26 e 27 de janeiro os depoimentos no inquérito que investiga suspeitas de fraudes envolvendo o Banco Master. As oitivas ocorrerão na sede do Supremo Tribunal Federal, com parte dos depoimentos por videoconferência e acesso autorizado das defesas aos autos sob sigilo.]]></description>
+<guid isPermaLink="false"><![CDATA[1675560 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Agência Nacional de Proteção de Dados, a Secretaria Nacional do Consumidor e o Ministério Público Federal emitiram recomendações à empresa controladora do X para impedir o uso indevido da inteligência artificial Grok na geração de conteúdos sexualizados. As medidas visam suspender contas que produzam imagens sexuais sem autorização e garantir mecanismos para denúncias e proteção dos direitos dos titulares de dados.]]></description>
 <content:encoded><![CDATA[
-<p>O ministro Dias Toffoli agendou para 26 e 27 de janeiro os depoimentos no inquérito que investiga suspeitas de fraudes envolvendo o Banco Master. As oitivas ocorrerão na sede do Supremo Tribunal Federal, com parte dos depoimentos por videoconferência e acesso autorizado das defesas aos autos sob sigilo.</p>
-<p>O inquérito apura crimes como gestão fraudulenta, gestão temerária e organização criminosa relacionados à venda de carteiras de crédito supostamente inexistentes do Banco Master ao Banco de Brasília. Os depoimentos foram concentrados em dois dias, reduzindo o prazo inicialmente pedido pela Polícia Federal devido a limitações de pessoal e espaço no tribunal.</p>
-<p>No dia 26 de janeiro, quatro depoimentos ocorrerão por videoconferência, incluindo diretores do BRB e do Banco Master, além de um empresário investigado. No dia 27, serão ouvidos presencialmente e por videoconferência outros executivos e sócios do Banco Master e do BRB, com três depoimentos presenciais previstos.</p>
-<p>O controlador do Banco Master, Daniel Vorcaro, não será ouvido nesta fase, pois já prestou depoimento e participou de acareação com o ex-presidente do BRB. O inquérito chegou ao STF no final de 2025 e teve avanço recente com a reorganização da perícia do material apreendido na Operação Compliance Zero, com análise da Procuradoria-Geral da República e da Polícia Federal.</p>
-<p>A investigação segue sob sigilo e todas as diligências dependem de autorização do relator. A Secretaria Judiciária do STF foi encarregada de organizar a reserva de salas e servidores para garantir a realização dos depoimentos nos dias definidos.</p>
-<p>Acompanhe as próximas etapas da investigação e os desdobramentos dos depoimentos agendados no Supremo Tribunal Federal.</p>
+<p>A Agência Nacional de Proteção de Dados, a Secretaria Nacional do Consumidor e o Ministério Público Federal emitiram recomendações à empresa controladora do X para impedir o uso indevido da inteligência artificial Grok na geração de conteúdos sexualizados. As medidas visam suspender contas que produzam imagens sexuais sem autorização e garantir mecanismos para denúncias e proteção dos direitos dos titulares de dados.</p>
+<p>As instituições solicitaram a suspensão imediata das contas envolvidas na produção de imagens sexuais ou erotizadas, tanto de crianças e adolescentes quanto de adultos, sem autorização, feitas com a ferramenta Grok. Também recomendaram a implementação de mecanismos transparentes, acessíveis e eficazes para que os titulares de dados possam exercer seus direitos, incluindo o envio de denúncias sobre uso irregular, abusivo ou ilegal de dados pessoais.</p>
+<p>As recomendações foram motivadas por denúncias de usuários e testes que apontaram o uso ilegal da ferramenta para produzir deepfakes com sexualizado, envolvendo mulheres, crianças e adolescentes reais. Esse tipo de impacta a proteção de dados pessoais, as relações de consumo, a dignidade da pessoa humana e outros direitos coletivos e individuais indisponíveis.</p>
+<p>Além de impedir a geração de novos conteúdos sexualizados com crianças e adolescentes, as recomendações também buscam impedir a criação de imagens e vídeos de adultos identificáveis em contextos sexualizados sem autorização. O documento destaca que o X é considerado coautor desses conteúdos, já que a produção depende da interação entre usuários e a inteligência artificial disponibilizada pela plataforma.</p>
+<p>O texto ressalta ainda que o Supremo Tribunal Federal declarou parcial inconstitucionalidade do artigo 19 do Marco Civil da Internet, reforçando o dever dos provedores de adotar providências para evitar a circulação massiva de crimes graves, especialmente contra mulheres. A política interna do X proíbe a produção e compartilhamento de imagens explícitas sem consentimento, tornando insustentável a disponibilização da ferramenta sem filtros rigorosos.</p>
+<p>As instituições aguardam a implementação das medidas recomendadas para garantir a proteção dos direitos e a segurança dos usuários na plataforma X.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
